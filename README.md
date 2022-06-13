@@ -1,2 +1,2 @@
-# Unity3D_Isabella
+# VR FPS Zombie Game
 A VR FPS Zombie Game
