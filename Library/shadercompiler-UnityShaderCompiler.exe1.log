@@ -1,0 +1,10 @@
+Base path: D:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 1 at (160): Too many math instructions for SM2.0 (77 needed, max is 64). Try #pragma target 3.0\nCompiling Fragment program with SOFTPARTICLES_ON
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING
+  api=1 type=1 insize=4567 outsize=0 kw=SOFTPARTICLES_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (162): Too many math instructions for SM2.0 (75 needed, max is 64). Try #pragma target 3.0\nCompiling Fragment program with FOG_LINEAR SOFTPARTICLES_OFF
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3
+  api=8 type=1 insize=4567 outsize=0 kw=FOG_LINEAR SOFTPARTICLES_OFF pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=0
